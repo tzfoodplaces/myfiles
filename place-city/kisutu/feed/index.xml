@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kisutu &#8211; TzFoodPlaces</title>
+	<atom:link href="https://tzfoodplaces.github.io/fp/place-city/kisutu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tzfoodplaces.github.io/fp</link>
+	<description>For Food Lovers</description>
+	<lastBuildDate>Thu, 28 Jul 2022 17:16:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://tzfoodplaces.github.io/fp/wp-content/uploads/2022/07/cropped-U2ntitled-4-32x32.png</url>
+	<title>Kisutu &#8211; TzFoodPlaces</title>
+	<link>https://tzfoodplaces.github.io/fp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Downtown Cj&#8217;s Pizza</title>
+		<link>https://tzfoodplaces.github.io/fp/place/downtown-cjs-pizza/</link>
+					<comments>https://tzfoodplaces.github.io/fp/place/downtown-cjs-pizza/#comments</comments>
+		
+		<dc:creator><![CDATA[Didas]]></dc:creator>
+		<pubDate>Wed, 27 Jul 2022 14:04:59 +0000</pubDate>
+				<guid isPermaLink="false">https://tzfoodplaces.github.io/fp/?post_type=place#038;p=5746</guid>
+
+					<description><![CDATA[Downtown Cj&#8217;s pizza Africa St https://maps.app.goo.gl/dSyRaJDdiTaZHPvu9]]></description>
+										<content:encoded><![CDATA[<p><span class="_aacl _aacp _aacw _aacx _aad7 _aade">Downtown Cj&#8217;s pizza</span></p>
+<div class="_aacl _aacp _aacu _aacx _aad6 _aade">Africa St<br />
+https://maps.app.goo.gl/dSyRaJDdiTaZHPvu9</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tzfoodplaces.github.io/fp/place/downtown-cjs-pizza/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

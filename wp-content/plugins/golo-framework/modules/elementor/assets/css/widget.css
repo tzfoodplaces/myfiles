@@ -1,0 +1,543 @@
+/*Reset*/
+#elementor-notice-bar {
+	display: none!important;
+}
+
+.elementor-page .main-content {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.elementor-element p {
+	margin-bottom: 0;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+	max-width: 1170px;
+}
+
+.elementor-item {
+	outline: 0;
+}
+
+.elementor-nav-menu .sub-arrow {
+	padding-left: 5px;
+}
+
+.elementor-slick-slider ul.slick-dots {
+	bottom: -50px;
+}
+
+.elementor-slick-slider .slick-arrow {
+	width: 46px;
+	height: 46px;
+	box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.1);
+	background-color: #ffffff;
+}
+
+.elementor-slick-slider .slick-arrow:hover,.elementor-slick-slider .slick-arrow:focus {
+	background-color: #ffffff;
+}
+
+.elementor-slick-slider .slick-arrow:before {
+	font-family: "Line Awesome Free";
+	font-size: 24px;
+	font-weight: 900;
+	color: #5d5d5d;
+	opacity: 1;
+}
+.elementor-slick-slider .slick-prev:before {
+	content: '\f104';
+}
+.elementor-slick-slider .slick-next:before {
+	content: '\f105';
+}
+.elementor-slick-slider ul.slick-dots li {
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+.elementor-slick-slider ul.slick-dots li button:before {
+	font-size: 8px;
+	opacity: 1;
+	color: #d8d8d8;
+}
+
+.elementor-slick-slider ul.slick-dots li.slick-active button:before {
+	color: #23d3d3;
+}
+
+.elementor-widget-place-search .elementor-heading-title {
+	padding: 0;
+	margin: 0;
+}
+
+.elementor-place-search .block-search.search-input {
+    width: 100%;
+	z-index: 2;
+}
+
+.elementor-place-search.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.elementor-place-search .block-search.layout-01 .input-search {
+	border: 0;
+	border-radius: 30px;
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+	background-color: #ffffff;
+	padding: 20px 20px 20px 55px;
+	line-height: 20px;
+	width: 100%;
+}
+
+.elementor-place-search .block-search.layout-01 .icon-search {
+	z-index: 1;
+	left: 20px;
+}
+
+.popular-city {
+	font-size: 15px;
+	display: flex;
+	flex-wrap: nowrap;
+	margin-top: 10px;
+	padding-left: 20px;
+}
+
+.popular-city span {
+	color: #fff;
+	opacity: 0.8;
+	margin-right: 5px;
+}
+
+.popular-city .list-city {
+	display: inline-block;
+	font-weight: 500;
+}
+
+.popular-city .list-city a {
+	color: #fff;
+	border-bottom: 1px solid #fff;
+}
+
+.popular-city .list-city a + a {
+	margin-left: 10px;
+}
+
+.elementor-items-columns-1 .golo-items {
+	grid-template-columns: repeat(1,1fr);
+}
+
+.elementor-items-columns-2 .golo-items {
+	grid-template-columns: repeat(2,1fr);
+}
+
+.elementor-items-columns-3 .golo-items {
+	grid-template-columns: repeat(3,1fr);
+}
+
+.elementor-items-columns-4 .golo-items {
+	grid-template-columns: repeat(4,1fr);
+}
+
+.elementor-items-columns-5 .golo-items {
+	grid-template-columns: repeat(5,1fr);
+}
+
+.elementor-items-columns-6 .golo-items {
+	grid-template-columns: repeat(6,1fr);
+}
+
+.elementor-items-columns-7 .golo-items {
+	grid-template-columns: repeat(7,1fr);
+}
+
+.elementor-items-columns-8 .golo-items {
+	grid-template-columns: repeat(8,1fr);
+}
+
+.elementor-items-columns-9 .golo-items {
+	grid-template-columns: repeat(9,1fr);
+}
+
+.elementor-items-columns-10 .golo-items {
+	grid-template-columns: repeat(10,1fr);
+}
+
+.elementor-items-columns-11 .golo-items {
+	grid-template-columns: repeat(11,1fr);
+}
+
+.elementor-items-columns-12 .golo-items {
+	grid-template-columns: repeat(12,1fr);
+}
+
+.elementor-element .elementor-posts-container .elementor-posts-masonry.elementor-posts--skin-golo-posts-categories .elementor-post__thumbnail {
+	padding-bottom: 0;
+}
+
+.elementor-posts-container.elementor-has-item-ratio.elementor-posts--skin-golo-posts-categories .elementor-post__thumbnail img {
+	height: 100%;
+	object-fit: cover;
+}
+
+.uxper-float {
+	z-index: 20;
+	background: transparent !important;
+	position: absolute !important;
+	width: 100%;
+}
+
+.uxper-sticky.on {
+	position: sticky !important;
+	top: 0;
+	left: 0;
+	z-index: 20;
+	box-shadow: 0px 5px 15px -5px rgba(0,0,0,0.2);
+	-webkit-box-shadow: 0px 5px 15px -5px rgba(0,0,0,0.2);
+}
+
+.admin-bar .uxper-sticky.on {
+	top: 32px;
+}
+
+.uxper-sticky.on.black {
+	background: #000 !important;
+}
+
+.uxper-sticky.on.white {
+	background: #fff !important;
+}
+
+.uxper-sticky.uxper-float.on {
+	position: fixed !important;
+}
+
+.uxper-sticky.on.has-wpadminbar {
+	top: 32px;
+}
+
+.elementor-button-content-wrapper {
+	align-items: center;
+}
+
+.fz-14 .elementor-widget-container i {
+	font-size: 14px !important;
+}
+
+.fz-18 .elementor-widget-container i {
+	font-size: 18px !important;
+}
+
+.fz-24 .elementor-widget-container i {
+	font-size: 24px !important;
+}
+
+.elementor-widget-place-categories .elementor-carousel.circle .inner-item {
+	margin: 0 auto;
+}
+
+.elementor-widget-place-categories .inner-item {
+	position: relative;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.elementor-widget-place-categories .slick-track{
+	align-items: center;
+}
+
+.elementor-widget-place-categories .inner-item .entry-title {
+	margin-bottom: 0;
+}
+
+.elementor-widget-place-categories .inner-item img {
+	transform: perspective(1px) translateZ(0);
+	transition: all 1.5s cubic-bezier(0, 0, .2, 1);
+}
+
+.elementor-widget-place-categories .inner-item:hover img {
+	transform: scale3d(1.1,1.1,1.1) translateZ(0);
+	transition: all 1s cubic-bezier(0,0,.2,1);
+}
+
+.elementor-widget-place-categories .rectangle-02 .inner-item .entry-detail{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-position: right bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    z-index: 2;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 60px;
+    align-content: center;
+}   
+
+.elementor-widget-place-categories .rectangle-02 .inner-item .entry-detail span{
+    width: 100%;
+    padding-right: 50%;
+}
+
+.elementor-widget-place-categories .rectangle-01 .inner-item .entry-detail, 
+.elementor-widget-place-categories .circle-01 .inner-item .entry-detail
+{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	-webkie-transform: translateY(-50%);
+	z-index: 2;
+	display: block;
+    left: 0;
+    right: 0;
+}
+
+.elementor-widget-place-categories .inner-item .entry-detail svg {
+	height: auto;
+}
+
+.elementor-widget-place-categories .inner-item a {
+	color: #fff;
+	overflow: hidden;
+}
+
+.elementor-widget-place-categories .inner-item > a:before,
+.elementor-widget-place-categories .circle-02 .inner-item .entry-image a:before
+{
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.4);
+	z-index: 1;
+}
+
+.elementor-widget-place-categories .rectangle-02 .inner-item .entry-detail{
+    background-size: auto 240px;
+    transition: all 0.3s;
+}
+
+.elementor-widget-place-categories .rectangle-02 .inner-item:hover .entry-detail{
+    background-size: auto 260px;
+}
+
+.post-wrapper.golo-box .golo-image img{
+    max-height: 420px;
+}
+
+.elementor-widget-place-categories .rectangle-02 .inner-item .btn{
+    height: 40px;
+    line-height: 40px;
+    background-color: #2d2d2d;
+    padding: 0 32px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 15px;
+    border-radius: 20px;
+    margin-top: 35px;
+    display: inline-block;
+    width: auto !important;
+    padding-right: 32px !important;
+}
+
+.elementor-widget-place-categories .entry-image {
+	overflow: hidden;
+	-webkit-transform: translate3d(0,0,0);
+  	-ms-transform: translate3d(0,0,0);
+  	transform: translate3d(0,0,0);
+}
+
+.elementor-widget-place-categories .entry-image img {
+	width: 100%;
+}
+
+.elementor-widget-place-categories .inner-item .entry-detail span {
+	display: block;
+}
+
+.elementor-widget-place-categories .inner-item .entry-detail .entry-title {
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 1.58;
+}
+
+.elementor-widget-place-categories .inner-item .entry-detail{
+	padding: 0 15px 3px;
+	background-position: 50% 100%;
+    background-repeat: no-repeat;
+    background-size: 49% auto;
+}
+
+.elementor-widget-place-categories .inner-item .entry-detail .entry-count {
+	font-size: 16px;
+}
+
+.elementor-widget-golo-testimonial .elementor-testimonial__image {
+	display: inline-block;
+}
+
+.elementor-widget-place-categories .elementor-carousel.circle .slick-prev {
+	left: -60px;
+}
+
+.elementor-widget-place-categories .elementor-carousel.circle .slick-next {
+	right: -60px;
+}
+
+.hidden-country .city-inner .entry-country {
+	display: none!important;
+}
+
+.hidden-count .city-inner .entry-detail>span {
+	display: none!important;
+}
+
+.testimonial-slider-for .elementor-testimonial {
+	position: relative;
+	margin: 0 auto;
+}
+.testimonial-slider-for .elementor-testimonial:before {
+	content: '';
+	width: 70px;
+	height: 60px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	background-image: url('https://tzfoodplaces.github.io/fp/wp-content/plugins/golo-framework/modules/elementor/assets/images/quote.png');
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+}
+.testimonial-slider-nav {
+	max-width: 310px;
+	text-align: center;
+	margin: 0 auto;
+}
+.testimonial-slider-nav .slick-center {
+	transform: scale(1.25);
+	-webkit-transform: scale(1.25);
+}
+.testimonial-slider-nav .slick-center .elementor-testimonial__image img {
+	border: 1px solid;
+}
+.elementor-widget-golo-testimonial .elementor-testimonial__image {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.elementor-widget-golo-testimonial .elementor-testimonial__image img {
+	width: 40px;
+	height: 40px;
+	margin: inherit;
+	display: inline-block;
+}
+.elementor-widget-user-manager .account {
+	display: flex;
+	flex-wrap: wrap;
+}
+.elementor-widget-user-manager .account a {
+	margin-right: 25px;
+}
+.elementor-widget-user-manager .account a:last-child {
+	margin-right: 0;
+}
+.elementor-element.elementor-widget-user-manager .account .user-control a {
+	color: #2d2d2d!important;
+}
+
+.elementor-nav-menu__align-left .inner-item {
+	text-align: left;
+}
+
+.elementor-nav-menu__align-right .inner-item {
+	text-align: right;
+}
+
+.elementor-nav-menu__align-center .inner-item {
+	text-align: center;
+}
+
+.elementor-single-city .inner-item {
+	position: relative;
+	overflow: hidden;
+	-webkit-transform: translate3d(0,0,0);
+  	-ms-transform: translate3d(0,0,0);
+  	transform: translate3d(0,0,0);
+}
+
+.elementor-single-city .inner-item a:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.elementor-single-city .entry-detail {
+	display: block;
+	text-align: center;
+	position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #fff;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+}
+
+.elementor-single-city .entry-detail .entry-title {
+	color: #fff;
+}
+
+.elementor-single-city .inner-item img {
+	transform: perspective(1px) translateZ(0);
+	transition: all 1.5s cubic-bezier(0, 0, .2, 1);
+	width: 100%;
+}
+
+.elementor-single-city .inner-item:hover img {
+	transform: scale3d(1.1,1.1,1.1) translateZ(0);
+	transition: all 1s cubic-bezier(0,0,.2,1);
+}
+
+.devider-right {
+	padding-right: 50px;
+}
+
+.devider-right:after {
+	content: '';
+	background-image: url('https://tzfoodplaces.github.io/fp/wp-content/plugins/golo-framework/modules/elementor/assets/images/bg-right.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 50px;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+}
+
+.devider-right .elementor-column-wrap {
+	z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+

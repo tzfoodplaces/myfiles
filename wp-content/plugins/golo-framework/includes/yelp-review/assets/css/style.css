@@ -1,0 +1,145 @@
+.czn-yelp-wrap + .czn-yelp-wrap {
+	margin-top: 20px;
+}
+
+.czn-yelp-title {
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1.78;
+	position: relative;
+	border-bottom: solid 1px #eeeeee;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+.czn-yelp-title:after {
+	content: '';
+	height: 1px;
+	width: 100px;
+	display: block;
+	position: absolute;
+	left: 0;
+	bottom: -1px;
+}
+
+.czn-yelp {
+	display: flex;
+	padding: 0 0 15px;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #eee;
+	box-shadow: none;
+	border-radius: 0;
+}
+
+.czn-yelp:last-child {
+	margin-bottom: 0;
+	border-bottom: 0;
+}
+
+.czn-yelp .czn-yelp-info-wrap {
+	flex: 1;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: relative;
+	padding-left: 20px;
+}
+
+.czn-yelp .czn-yelp-info-wrap .left {
+	flex: 1;
+	padding-right: 15px;
+	position: relative;
+}
+
+.czn-yelp .czn-yelp-info-wrap .right {
+	display: flex;
+	flex-direction: column;
+	text-align: right;
+	align-self: flex-start;
+}
+
+.czn-yelp .czn-yelp-info-wrap .review-count {
+	margin-bottom: 10px;
+}
+
+.czn-yelp .czn-yelp-business-name {
+	font-size: 15px;
+	font-weight: 500;
+	text-decoration: none;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+.czn-yelp .review-count {
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 1.71;
+    margin-top: 0;
+}
+
+.czn-yelp .czn-yelp-img-wrap {
+	flex: 0 0 90px;
+	overflow: hidden;
+}
+
+.czn-yelp .czn-yelp-business-img {
+	width: 90px;
+	height: 60px;
+	object-fit: cover;
+	border-radius: 5px;
+}
+
+.czn-yelp .czn-yelp-address-wrap address {
+	font-size: 14px;
+	line-height: 22px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+.czn-yelp .ywp-phone {
+	font-size: 15px;
+	margin-bottom: 0;
+    margin-top: 5px;
+}
+
+
+@media only screen and (max-width: 479px) { 
+	.czn-yelp .czn-yelp-img-wrap {
+		flex: 0 0 40%;
+	}
+
+	.czn-yelp .czn-yelp-business-img {
+		width: 100%;
+		height: 200px;
+	}
+
+	.czn-yelp .czn-yelp-info-wrap {
+		display: block;
+	}
+
+	.czn-yelp .czn-yelp-info-wrap .left {
+		padding-right: 0;
+	}
+
+	.czn-yelp .czn-yelp-info-wrap .right {
+		text-align: left;
+		margin-top: 20px;
+	}
+
+	.czn-yelp .czn-yelp-info-wrap .right img {
+		align-self: flex-start;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

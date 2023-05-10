@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Segerea &#8211; TzFoodPlaces</title>
+	<atom:link href="https://tzfoodplaces.github.io/fp/place-city/segerea/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tzfoodplaces.github.io/fp</link>
+	<description>For Food Lovers</description>
+	<lastBuildDate>Thu, 28 Jul 2022 17:14:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://tzfoodplaces.github.io/fp/wp-content/uploads/2022/07/cropped-U2ntitled-4-32x32.png</url>
+	<title>Segerea &#8211; TzFoodPlaces</title>
+	<link>https://tzfoodplaces.github.io/fp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Collins Burger</title>
+		<link>https://tzfoodplaces.github.io/fp/place/collins-burger/</link>
+					<comments>https://tzfoodplaces.github.io/fp/place/collins-burger/#comments</comments>
+		
+		<dc:creator><![CDATA[Didas]]></dc:creator>
+		<pubDate>Thu, 14 Jul 2022 11:50:34 +0000</pubDate>
+				<guid isPermaLink="false">https://tzfoodplaces.github.io/fp/?post_type=place#038;p=5553</guid>
+
+					<description><![CDATA[Food &#38; beverage We serve HOT eats🍟🍖🍔and COLD treats🥤 LOCATION: Njia panda ya segerea , simba oil. Open at 1000hrs to 2300hrs Call us: 0719948725 #HOTEATSCOLDTREATS😋]]></description>
+										<content:encoded><![CDATA[<p>Food &amp; beverage</p>
+<div class="_aacl _aacp _aacu _aacx _aad6 _aade">We serve HOT eats<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f35f.png" alt="🍟" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f356.png" alt="🍖" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f354.png" alt="🍔" class="wp-smiley" style="height: 1em; max-height: 1em;" />and COLD treats<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f964.png" alt="🥤" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+LOCATION: Njia panda ya segerea , simba oil.<br />
+Open at 1000hrs to 2300hrs<br />
+Call us: 0719948725<br />
+#HOTEATSCOLDTREATS<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f60b.png" alt="😋" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tzfoodplaces.github.io/fp/place/collins-burger/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Makumbusho &#8211; TzFoodPlaces</title>
+	<atom:link href="https://tzfoodplaces.github.io/fp/place-city/makumbusho/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tzfoodplaces.github.io/fp</link>
+	<description>For Food Lovers</description>
+	<lastBuildDate>Mon, 22 Aug 2022 18:38:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://tzfoodplaces.github.io/fp/wp-content/uploads/2022/07/cropped-U2ntitled-4-32x32.png</url>
+	<title>Makumbusho &#8211; TzFoodPlaces</title>
+	<link>https://tzfoodplaces.github.io/fp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Brake Point</title>
+		<link>https://tzfoodplaces.github.io/fp/place/brake-point-2/</link>
+					<comments>https://tzfoodplaces.github.io/fp/place/brake-point-2/#comments</comments>
+		
+		<dc:creator><![CDATA[Didas]]></dc:creator>
+		<pubDate>Mon, 22 Aug 2022 18:32:43 +0000</pubDate>
+				<guid isPermaLink="false">https://tzfoodplaces.github.io/fp/?post_type=place#038;p=6029</guid>
+
+					<description><![CDATA[Brake Point Restaurant A home of delicious traditional food Reservation: KINONDONI Call: +255 747 774 403 Reservation: MAKUMBUSHO Call: +255 747 774 402]]></description>
+										<content:encoded><![CDATA[<p><span class="_aacl _aacp _aacw _adda _aacx _aad7 _aade">Brake Point</span></p>
+<div class="_ab8w _ab94 _ab99 _ab9f _ab9m _ab9p _abcm">
+<div class="_aacl _aacp _aacu _aacy _aad6 _aade">Restaurant</div>
+</div>
+<div class="_aacl _aacp _aacu _aacx _aad6 _aade">A home of delicious traditional food<br />
+Reservation: KINONDONI<br />
+Call: +255 747 774 403<br />
+Reservation: MAKUMBUSHO<br />
+Call: +255 747 774 402</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tzfoodplaces.github.io/fp/place/brake-point-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

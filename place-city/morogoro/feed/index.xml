@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Morogoro &#8211; TzFoodPlaces</title>
+	<atom:link href="https://tzfoodplaces.github.io/fp/place-city/morogoro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tzfoodplaces.github.io/fp</link>
+	<description>For Food Lovers</description>
+	<lastBuildDate>Thu, 28 Jul 2022 17:17:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://tzfoodplaces.github.io/fp/wp-content/uploads/2022/07/cropped-U2ntitled-4-32x32.png</url>
+	<title>Morogoro &#8211; TzFoodPlaces</title>
+	<link>https://tzfoodplaces.github.io/fp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cj&#8217;s Pizza City Mall</title>
+		<link>https://tzfoodplaces.github.io/fp/place/cjs-pizza-city-mall/</link>
+					<comments>https://tzfoodplaces.github.io/fp/place/cjs-pizza-city-mall/#comments</comments>
+		
+		<dc:creator><![CDATA[Didas]]></dc:creator>
+		<pubDate>Wed, 27 Jul 2022 14:27:25 +0000</pubDate>
+				<guid isPermaLink="false">https://tzfoodplaces.github.io/fp/?post_type=place#038;p=5745</guid>
+
+					<description><![CDATA[CJ&#8217;s Pizza tz Restaurant 3rd floor, Food court city mall, corner of Bibi Titi and Morogoro Rd Dar Es Salaam]]></description>
+										<content:encoded><![CDATA[<p><span class="_aacl _aacp _aacw _aacx _aad7 _aade">CJ&#8217;s Pizza tz</span></p>
+<div class="_ab8w _ab94 _ab99 _ab9f _ab9m _ab9p _abcm">
+<div class="_aacl _aacp _aacu _aacy _aad6 _aade">Restaurant</div>
+</div>
+<div class="_aacl _aacp _aacu _aacx _aad6 _aade">
+<p>3rd floor, Food court city mall, corner of Bibi Titi and Morogoro Rd Dar Es Salaam</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tzfoodplaces.github.io/fp/place/cjs-pizza-city-mall/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
